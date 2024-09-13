@@ -1,7 +1,7 @@
 
 # Project Title
 
-this is mamun brief description of what this project does and who it's for
+this is mamun brief description of what this project does and who it's for nothing
 
 
 ## Acknowledgements
